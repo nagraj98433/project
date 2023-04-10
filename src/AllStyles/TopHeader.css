@@ -1,0 +1,32 @@
+.flex_container{
+    display: flex;
+    justify-content: space-between;
+    background-color: pink;
+}
+html{
+    /* 1rem = 10px */
+    font-size: 62.5%; 
+}
+
+/* .logoContainer{
+    padding: 2.0rem 0 0 7rem;
+}
+.Main_menu_Container{
+    padding: 2.0rem 22rem 0 0;
+
+}
+.menus_container ul{
+    display: flex;
+    justify-content: space-around;
+}
+.menus_container ul li{
+    font-size: 2rem;
+    padding: 0 4rem;
+    list-style-type: none;
+}
+.menus_container ul li:nth-child(6){
+    background-color: blue;
+    color: white;
+    border-radius: 2rem;
+    padding: 0.5rem 1.3rem;
+} */
