@@ -1,0 +1,11 @@
+.overlaysImg img{
+    max-width: 43%;
+}
+.relative{
+    position: relative;
+}
+.absolute{
+    position: absolute;
+    top: 441px;
+    left: -114px;
+}

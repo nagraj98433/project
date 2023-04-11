@@ -1,0 +1,24 @@
+.flex_container2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 80%;
+    margin: 0 auto 0 auto;
+}
+
+
+.rounded_icons span{
+    padding: 6px 8px;
+    border: 1px solid #4f46e563;
+    border-radius: 100%;
+    color: #4f46e563;
+}
+.flex_conatainer3{
+    max-width: 82%;
+}
+.rounded{
+    border-radius: 100% !important;
+}
+.reviewClr{
+    color: #2920C4;
+}
